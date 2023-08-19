@@ -69,7 +69,7 @@ async function ShowData() {
             </div>
             <div id="organisation">
               <h1>Organisation:${"  "}AH55SWQ Airtel  Infocomm Privated Limited</h1>
-              <h1>Hostname:${"  "}Ashwani Kumar</h1>
+              <h1>Hostname:${"  "}sumit</h1>
             </div>
           </div>
         </div>
