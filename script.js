@@ -68,8 +68,8 @@ async function ShowData() {
               <h1>Region:${"  " + locationData.region}</h1>
             </div>
             <div id="organisation">
-              <h1>Organisation:${"  "}AH55SWQ Airtel  Infocomm Privated Limited</h1>
-              <h1>Hostname:${"  "}sumit</h1>
+              <h1>Organisation:${"  "}AH55SWQ vi limited</h1>
+              <h1>Hostname:${"  "}sumit raj</h1>
             </div>
           </div>
         </div>
